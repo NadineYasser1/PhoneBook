@@ -1,0 +1,3 @@
+steven,thomas,10-06-1995,26 elhoreya street,01234567899,sthomas@gmail.com
+Micheal,William,09-08-2000,24 elhoreya street,01234565899,Mwilliam@gmail.com
+ahmed,peter,12-12-1990,16 elhoreya street,0123438908939,apeter@gmail.com
